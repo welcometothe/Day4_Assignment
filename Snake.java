@@ -1,5 +1,5 @@
 import java.util.*;
-public class Snake {
+#public class Snake {
     public static void main(String[] darsh) {
 
         int Player_1 = 0;
